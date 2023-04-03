@@ -12,7 +12,7 @@ npm run dev
 
 Rotas 
 
-('/adcionar_produtos')
+('/adicionar_produtos')
 
 ('/mostrar')
 
