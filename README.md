@@ -21,3 +21,8 @@ Rotas
 ('/deletar/:id')
 
 ('/atualizar/:id')
+
+
+Ferramenta para testar as rotas
+Insomnia
+
